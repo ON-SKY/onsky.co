@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ON-SKY/onsky.co/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [onsky.co](https://github.com/ON-SKY/onsky.co/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [onsky.co] (https://onsky.co/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# onsky.co
+## osy.co
+### osy.org
 
 - Bulleted
 - List
