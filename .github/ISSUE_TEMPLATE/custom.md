@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+name: www.onsky.co
+about: The first E-Services company in Iraq,.
+title: 'onsky.co'
+labels: 'E-STORE'
+assignees: 'admin:admin'
 
 ---
 
